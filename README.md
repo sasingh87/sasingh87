@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sasingh87
 - 👀 I’m interested in nature, walking/running and motorsports...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ..golang..
+- 💞️ I’m looking to collaborate on ...python,js,AWS svcs
 - 📫 How to reach me ... +91-9538907995
 
 <!---
